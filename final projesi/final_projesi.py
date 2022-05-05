@@ -72,7 +72,7 @@ master.mainloop()
 master.mainloop()
 
 sayfa3 = Tk()
-
+print("ddeneme")
 
 
 sayfa3.mainloop()
