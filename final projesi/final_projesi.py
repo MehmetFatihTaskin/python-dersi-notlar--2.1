@@ -64,10 +64,10 @@ giriş_butonu.pack(anchor=S)
 
 
 
-<<<<<<< HEAD
 master.mainloop() 
 
 
+<<<<<<< HEAD
 =======
 master.mainloop()
 
@@ -77,3 +77,5 @@ print("ddeneme")
 
 sayfa3.mainloop()
 >>>>>>> c62d8b491d9f79dc35085a542443d165e5c5e974
+=======
+>>>>>>> 6af652353ccbfb9462e38b41d383f980a156824b
