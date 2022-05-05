@@ -7,3 +7,5 @@ küre_alan = 4*pi*(küre_capı/2)**2
 küre_hacmi = 4/3 * pi * (küre_capı/2)**3
 print("capı:" , küre_capı, "olan kürenin alanı:" ,
 küre_alan, "cm ve hacmi: ",küre_hacmi ,"cm dir")
+
+print("nokta")
